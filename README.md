@@ -2,7 +2,7 @@
 #######################
 
 This is an experimental repository for the exchange dataframes. 
-The provided files contains PDB related information and are ready to be used in various analytics and datamining tools, such as R, Pandas, or Spark.
+The provided files contain PDB related information and are ready to be used in various analytics and datamining tools, such as R, Pandas, or Spark.
 
 ## File Formats
 Currently we are supporting .json and .parquet file formats. Please let us know if you would find any other exchange formats useful.
