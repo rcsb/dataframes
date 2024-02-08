@@ -1,5 +1,4 @@
 # RCSB PDB DataFrames
-#######################
 
 > [!NOTE]
 > Note this repository has been archived because it is not active anymore.
