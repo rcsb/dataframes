@@ -1,6 +1,9 @@
 # RCSB PDB DataFrames
 #######################
 
+> [!NOTE]
+> Note this repository has been archived because it is not active anymore.
+
 This is an experimental repository for the exchange dataframes. 
 The provided files contain PDB related information and are ready to be used in various analytics and datamining tools, such as R, Pandas, or Spark.
 
